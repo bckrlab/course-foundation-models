@@ -1,0 +1,14 @@
+# use jupyter-book version 2!
+jupyter-book>=2.0
+matplotlib
+seaborn
+scikit-learn
+numpy
+pandas
+torch
+more-itertools
+tqdm
+ghp-import
+# pydata-sphinx-theme 0.16 breaks sidebar
+# no longer required after upgrading to jupyter book >= 2.0
+# pydata-sphinx-theme<0.16
