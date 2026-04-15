@@ -1,4 +1,4 @@
-# Foundation Models
+# Lecture *Foundation Models*
 
 ## Course Materials
 
