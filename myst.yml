@@ -29,6 +29,7 @@ project:
     - file: content/w02_forbook.ipynb
     - file: content/w03_forbook.ipynb
     - file: content/w04_forbook.ipynb
+    - file: content/w05_forbook.ipynb
 
 
 site:
