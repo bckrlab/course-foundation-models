@@ -32,6 +32,7 @@ project:
     - file: content/w05_forbook.ipynb
     - file: content/w06_forbook.ipynb
     - file: content/w07_forbook.ipynb
+    - file: content/w08_forbook.ipynb
 
 
 site:
