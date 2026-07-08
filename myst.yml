@@ -35,7 +35,9 @@ project:
     - file: content/w08_forbook.ipynb
     - file: content/w09_forbook.ipynb
     - file: content/w10_forbook.ipynb
-
+  parse:
+    myst_enable_extensions:
+      - attrs_inline
 
 site:
   template: book-theme
